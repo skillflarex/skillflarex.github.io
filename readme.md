@@ -7,7 +7,7 @@ The project involves the creation of an e-learning website using HTML, CSS, Boot
 
 ## Introduction
 
-HiBits is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+SkillFlareX is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
 
 ## Features
 
@@ -57,5 +57,5 @@ Give a ⭐️ if you like this project!
 
 ## License
 
-This project is **free to use** and does not contains any license.# hi-bits.github.io
-# hi-bits.github.io
+This project is **free to use** and does not contains any license.# skillflarex.github.io
+# skillflarex.github.io
